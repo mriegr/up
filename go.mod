@@ -24,7 +24,7 @@ require (
 	github.com/golang/tools v0.1.7
 	github.com/google/addlicense v1.1.1
 	github.com/google/go-cmp v0.6.0
-	github.com/google/go-containerregistry v0.18.0
+	github.com/google/go-containerregistry v0.19.0
 	github.com/google/uuid v1.6.0
 	github.com/goreleaser/nfpm/v2 v2.5.1
 	github.com/mholt/archiver/v4 v4.0.0-alpha.8
